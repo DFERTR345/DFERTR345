@@ -14,9 +14,9 @@
 
 ## 📊 Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DFERTR345&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DFERTR345&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DFERTR345&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DFERTR345&layout=compact&theme=tokyonight)
 
 ## 📫 Contact
 
