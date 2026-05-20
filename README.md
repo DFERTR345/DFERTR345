@@ -1,5 +1,7 @@
 # 👋 Hi, I'm DFERTR345
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Discord+Bot+Developer;Backend+%2F+Automation;Game+Development;Python+%7C+Node.js)](https://git.io/typing-svg)
+
 ## 🚀 About Me
 
 - Discord Bot Developer
