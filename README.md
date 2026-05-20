@@ -10,6 +10,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 
 ## 📊 Stats
-![stats](https://github-readme-stats.vercel.app/api?username=DFERTR345&show_icons=true&theme=dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DFERTR345)](https://github.com/anuraghazra/github-readme-stats)
 
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DFERTR345&layout=compact&theme=dark)
