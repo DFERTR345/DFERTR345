@@ -25,6 +25,5 @@
 
 ## 💬 etc
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DFERTR345&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph) [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/USER_ID)](https://discord.com/users/1339604814631534667)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DFERTR345&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph) [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1339604814631534667)](https://discord.com/users/1339604814631534667)
 </div>
